@@ -1,0 +1,34 @@
+body
+{
+	margin:0px;
+	background-color: #000;
+
+}
+.row
+{
+	width:100%;
+	height:90px;
+	
+	margin-top: 80px;
+	
+}
+.col
+{
+	width:30%;
+	height:30%;
+	margin-top: 40px;
+	display: inline;
+	margin-right: 80px;
+
+}
+img 
+{
+	width:140px;
+	height:140px;
+	margin-top: 30px;
+}
+i
+{
+	
+}
+

@@ -1,0 +1,23 @@
+
+
+{
+  "manifest_version": 2,
+
+  "name": "Technopedia",
+  "version": "1.7.23.59",
+
+  "browser_action": {
+    "default_icon": "1.jpg"
+    
+  },
+  "icons":
+  {
+    "128" : "1.jpg"
+    },
+  
+   "chrome_url_overrides" : {
+    "newtab": "index.html"
+  },
+  "author" : "Amar Prakash Pandey",
+  "permissions": ["https://*/*", "http://*/*", "tabs"]
+}
